@@ -7,6 +7,7 @@ These scripts cover a wide range of analyses such as:
 - **Time-based trends**.
 - **Cumulative analytics**.
 - **Segmentation and insights**.
+  
 This repository contains SQL queries designed to help data analysts and BI professionals quickly explore, segment, and analyze data within a relational database.
 Each script focuses on a specific analytical theme and demonstrates best practices for writing efficient and clear SQL queries.
 
